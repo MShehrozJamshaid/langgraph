@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 21 / repository commit 1
-Subject: [langgraph] Add resilient agent orchestration with graph engineering
-Focus: [langgraph], Add, resilient, agent, orchestration
+Sequence: 25 / repository commit 2
+Subject: Add lightweight framework for multi-agent workflows and voice agents
+Focus: Add, lightweight, framework, for, multi-agent
