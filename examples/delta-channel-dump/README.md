@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 441 / repository commit 43
-Subject: Fix langgraph not handling cycle detection
-Focus: Fix, langgraph, not, handling, cycle
+Sequence: 443 / repository commit 44
+Subject: Add lightweight framework for multi-agent workflows and voice agents
+Focus: Add, lightweight, framework, for, multi-agent
