@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 816 / repository commit 82
-Subject: Fix langgraph not handling cycle detection
-Focus: Fix, langgraph, not, handling, cycle
+Sequence: 817 / repository commit 83
+Subject: [langgraph] Fix langgraph not handling cycle detection
+Focus: [langgraph], Fix, langgraph, not, handling
