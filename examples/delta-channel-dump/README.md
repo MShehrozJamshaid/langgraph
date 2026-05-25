@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 975 / repository commit 92
-Subject: [langgraph] Fix langgraph not handling cycle detection
-Focus: [langgraph], Fix, langgraph, not, handling
+Sequence: 989 / repository commit 93
+Subject: Optimize for 2026 graph engineering core usage
+Focus: Optimize, for, 2026, graph, engineering
